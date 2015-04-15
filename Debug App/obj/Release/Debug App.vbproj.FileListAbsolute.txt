@@ -4,3 +4,4 @@ D:\GitHub\FontAwesomeVS\Debug App\obj\Release\Debug_App.InstallForm.resources
 D:\GitHub\FontAwesomeVS\Debug App\obj\Release\Debug_App.Resources.resources
 D:\GitHub\FontAwesomeVS\Debug App\obj\Release\Debug_App.TestForm.resources
 D:\GitHub\FontAwesomeVS\Debug App\obj\Release\Debug App.vbproj.GenerateResource.Cache
+D:\GitHub\FaVS\Debug App\bin\Release\Debug App.exe.config

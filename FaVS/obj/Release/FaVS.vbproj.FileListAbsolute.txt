@@ -1,0 +1,7 @@
+D:\GitHub\FaVS\FaVS\bin\Release\FaVS.dll.config
+D:\GitHub\FaVS\FaVS\bin\Release\FaVS.dll
+D:\GitHub\FaVS\FaVS\bin\Release\FaVS.pdb
+D:\GitHub\FaVS\FaVS\obj\Release\FontAwesome.Resources.resources
+D:\GitHub\FaVS\FaVS\obj\Release\FaVS.vbproj.GenerateResource.Cache
+D:\GitHub\FaVS\FaVS\obj\Release\FaVS.dll
+D:\GitHub\FaVS\FaVS\obj\Release\FaVS.pdb
