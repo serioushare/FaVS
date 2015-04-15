@@ -5,7 +5,7 @@ This is a simple Class Library for use with Visual Studio that offers some simpl
 
 # Implementation/Installation
 
-* Reference to FontAwesomeVS.dll from your project
+* Reference to FaVS.dll from your project
 * Import Namespace FontAwesome
 * Write some code that calls FontAwesome.Installer.Install() on the first time startup of your application to deploy the FontAwesome font to the font library.
 
