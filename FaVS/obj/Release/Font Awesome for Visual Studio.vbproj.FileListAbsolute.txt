@@ -1,0 +1,7 @@
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\bin\Release\FontAwesomeVS.dll.config
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\bin\Release\FontAwesomeVS.dll
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\bin\Release\FontAwesomeVS.pdb
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\obj\Release\FontAwesome.Resources.resources
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\obj\Release\Font Awesome for Visual Studio.vbproj.GenerateResource.Cache
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\obj\Release\FontAwesomeVS.dll
+D:\Font Awesome for Visual Studio\Font Awesome for Visual Studio\obj\Release\FontAwesomeVS.pdb

@@ -1,0 +1,44 @@
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\Debug App.exe.config
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\Debug App.exe
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\Debug App.pdb
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\Debug App.xml
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug_App.Resources.resources
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug App.vbproj.GenerateResource.Cache
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug App.exe
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug App.xml
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug App.pdb
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug App.vbprojResolveAssemblyReference.cache
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug_App.TestForm.resources
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\FontAwesomeVS.dll
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\FontAwesomeVS.pdb
+D:\Font Awesome for Visual Studio\Debug App\bin\Debug\FontAwesomeVS.xml
+D:\Font Awesome for Visual Studio\Debug App\obj\Debug\Debug_App.InstallForm.resources
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\Debug App.exe.config
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\Debug App.exe
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\Debug App.pdb
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\Debug App.xml
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\FontAwesomeVS.dll
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\FontAwesomeVS.pdb
+D:\GitHub\FontAwesomeVS\Debug App\bin\Debug\FontAwesomeVS.xml
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug App.vbprojResolveAssemblyReference.cache
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug_App.InstallForm.resources
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug_App.Resources.resources
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug_App.TestForm.resources
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug App.vbproj.GenerateResource.Cache
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug App.exe
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug App.xml
+D:\GitHub\FontAwesomeVS\Debug App\obj\Debug\Debug App.pdb
+D:\GitHub\FaVS\Debug App\bin\Debug\Debug App.exe.config
+D:\GitHub\FaVS\Debug App\bin\Debug\Debug App.exe
+D:\GitHub\FaVS\Debug App\bin\Debug\Debug App.pdb
+D:\GitHub\FaVS\Debug App\bin\Debug\Debug App.xml
+D:\GitHub\FaVS\Debug App\bin\Debug\FaVS.dll
+D:\GitHub\FaVS\Debug App\bin\Debug\FaVS.pdb
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug App.vbprojResolveAssemblyReference.cache
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug_App.InstallForm.resources
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug_App.Resources.resources
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug_App.TestForm.resources
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug App.vbproj.GenerateResource.Cache
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug App.exe
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug App.xml
+D:\GitHub\FaVS\Debug App\obj\Debug\Debug App.pdb
