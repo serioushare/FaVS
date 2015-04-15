@@ -1,7 +1,0 @@
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\bin\Release\FontAwesomeVS.dll.config
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\bin\Release\FontAwesomeVS.dll
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\bin\Release\FontAwesomeVS.pdb
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\obj\Release\FontAwesome.Resources.resources
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\obj\Release\FontAwesomeVS.vbproj.GenerateResource.Cache
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\obj\Release\FontAwesomeVS.dll
-D:\GitHub\FontAwesomeVS\FontAwesomeVS\obj\Release\FontAwesomeVS.pdb
